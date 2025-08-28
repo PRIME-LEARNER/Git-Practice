@@ -1,1 +1,2 @@
 This is my first pracitce sentece of git practice for github.
+This is my 2nd line of git practice.
